@@ -1,4 +1,4 @@
-* [CrossCTF 2017]
+* CrossCTF 2017
     - Qualifiers
         + [Paricle Collision Challenge_5](/qualifiers/paricle-collision-challenge_5)
         + [Knights of the AAAAAAA_5](/qualifiers/knights-of-the-aaaaaaa_5)
