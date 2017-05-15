@@ -3,9 +3,6 @@
 # Created for the Trivial.pyc challenge
 # By Amos Ng
 ##
-import json
-
-
 check_code = "AK4782"
 numbers = 18529313.0 / 2.0
 change = "standardisation"[::2]
