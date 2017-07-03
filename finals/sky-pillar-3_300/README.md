@@ -40,9 +40,5 @@ Now that we have the logistics out of the way, let's look at `magic()`. After aw
     ====================================================================
     Enter Code: 0 @ C D G
     CrossCTF{xxxxxxxxxxxxxxxxx}
-    ====================================================================
-                              LEVEL 04                                  
-    ====================================================================
-    Enter Code:
 
 Therefore, the flag is ``.
